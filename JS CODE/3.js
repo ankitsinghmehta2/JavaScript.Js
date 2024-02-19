@@ -12,6 +12,7 @@ while (j < 5) {
     j++;
 }
 
+
 // Do-While Loop
 console.log("\nDo-While Loop:");
 let k = 0;
