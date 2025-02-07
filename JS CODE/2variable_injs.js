@@ -7,3 +7,4 @@
 var x=30
 var x="hello world"
 console.log(x);
+a
